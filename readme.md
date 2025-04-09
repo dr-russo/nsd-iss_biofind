@@ -1,6 +1,6 @@
 # Code and Analysis 
 
-## New Diagnostic and Staging Framework Applied to Advanced PD in the BioFIND Cohort
+## New Diagnostic and Staging Framework Applied to Established PD in the BioFIND Cohort
 
 Applies Neuronal $\alpha$-Synuclein Disease Integrated Staging System (NSD-ISS) to the BioFIND cohort with relatively advanced Parkinson's disease.
 
